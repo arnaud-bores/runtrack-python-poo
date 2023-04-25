@@ -4,5 +4,6 @@ class Operation:
         self.Nombre2 = nombre2
 
 
-operation=Operation(10, 5)
-print(operation)
+operation=Operation(12, 3)
+print(operation.Nombre1)
+print(operation.Nombre2)
